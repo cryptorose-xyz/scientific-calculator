@@ -69,7 +69,7 @@ while True:
         ).lower()
 
         if operation == "exit":
-            print("Goodbye 👋")
+            print("Goodbye bitch 👋")
             break
 
         if operation == "sqrt":

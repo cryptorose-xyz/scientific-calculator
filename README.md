@@ -1,4 +1,4 @@
-# scientific-calculator
+# Python Beginner Projects
 A Python-based beginner projects with error handling and a user-friendly CLI interface.
 
 

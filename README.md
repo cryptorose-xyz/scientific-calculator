@@ -1,14 +1,14 @@
 # scientific-calculator
-A Python-based scientific calculator that performs basic arithmetic, advanced math operations, and trigonometric functions with error handling and a user-friendly CLI interface.
+A Python-based beginner projects with error handling and a user-friendly CLI interface.
 
 
 ## 🚀 Features
-- Basic operations (+, -, *, /)
-- Power and square root
-- Factorial
-- Logarithms
-- Trigonometric functions (sin, cos, tan, etc.)
-- Error handling
+- Scientific calculator
+- To do list app
+- 
+- 
+- 
+- 
 
 ## 🧠 Skills Used
 - Python functions
@@ -17,5 +17,4 @@ A Python-based scientific calculator that performs basic arithmetic, advanced ma
 - Error handling
 - Math module
 
-## ▶️ Run
-python calculator.py
+
